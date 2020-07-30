@@ -1,5 +1,5 @@
 
-function myAnimal(animal) {
+function myAnimal(animal_input) {
   let animal = "dog"
   return animal
 }
