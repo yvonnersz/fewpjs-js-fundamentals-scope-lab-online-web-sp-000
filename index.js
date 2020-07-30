@@ -1,6 +1,6 @@
+let animal = ""
 
-function myAnimal(animal_input) {
-  let animal = animal_input
+function myAnimal(animal) {
   return animal
 }
 
