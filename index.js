@@ -1,6 +1,6 @@
 
 function myAnimal(animal_input) {
-  let animal = "dog"
+  let animal = animal_input
   return animal
 }
 
